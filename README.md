@@ -59,7 +59,7 @@ Before launching, ensure your local directory contains the following configurati
 ├── 📝 README.md               # Documentation and system guide
 └── 🖼️ screenshot.png          # UI display image
 ⚙️ Configuration & Deployment
-
+#please do not refer to this after version 1.5 since config files wont be needed
 Step 1: Create Your Private Config
 The repository blocks config.json via .gitignore to protect coordinates. Create your local config by copying the example template:
 
